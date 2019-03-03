@@ -2,7 +2,7 @@
 	"name": "open-temporary-git-project",
 	"displayName": "open-temporary-git-project",
 	"description": "open a temporary remote git project in a new window.",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.31.0"
 	},
