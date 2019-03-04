@@ -3,11 +3,16 @@
 	"displayName": "open-temporary-git-project",
 	"description": "open a temporary remote git project in a new window.",
 	"version": "0.2.0",
+	"publisher": "hughfenghen",
+	"author": {
+		"name": "hughfenghen"
+	},
+	"repository": "https://github.com/hughfenghen/open-temporary-git-project",
 	"engines": {
 		"vscode": "^1.31.0"
 	},
 	"categories": [
-		"Other"
+		"Extension Packs"
 	],
 	"activationEvents": [
 		"onCommand:temporaryGit.openRemoteRepository",

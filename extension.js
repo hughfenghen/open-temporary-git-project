@@ -27,6 +27,7 @@ function activate(context) {
         { placeHolder: 'Delete the selected repositories.' }
       );
 
+      if (!selectedPrjName) return
       if (selectedPrjName !== 'New Repository') {
         openDirInNewWindow(
           reps.find(({ prjName }) => prjName === selectedPrjName).path
