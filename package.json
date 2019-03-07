@@ -2,7 +2,7 @@
 	"name": "open-temporary-git-project",
 	"displayName": "open-temporary-git-project",
 	"description": "open a temporary remote git project in a new window.",
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"publisher": "hughfenghen",
 	"author": {
 		"name": "hughfenghen"
